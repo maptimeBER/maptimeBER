@@ -1,11 +1,6 @@
 Maptime planning status:
 
 Next dates:
-- 1 March*
-- 5 April*
-- 3. May*
-- 21 June*
-
 - 20 September*
 - 25 October*
 
@@ -15,49 +10,32 @@ Next dates:
 
 Topics:
 
-1 March: Remote sensing
-- Harald + 2 external guests
-- Hans Hack (Berliner Alpen) (confirmed)
-
-
-5 April: Topic Tbc
-- Uli Strötz (Ally App/ Track your city) (confirmed, Alsino)
-- Breitband project TSB (Seb confirmed)
-- ESRI with good topic (confirmed, Harald)
-- Thomas Moenkemeier - WFS overview (confirmed, Seb)
-- Riccardo (Digital geography) tutorial (Alsino asks)
-
-
-3 May: Topic Tbd
-- Carolina workshop hand drawn maps (Alsino asks)
-- TSB-project Seb (5min)
-- Geoserver and air pollution data (Patrick) ?
-- Sebastian (BILD)-map guy (Seb asks)
-
-
-21 June: Topic Tbd
-- Intro PostGIS/Geoserver (Seb/Harald)
-- Till (Seb asks)?
-- Golden Section Maps Project (Jonas)
-- Fabian Ehmel Emotion Projekt ?
-
-
-———————————————————
-
-
-12 July: Drohnen Session:
-- Tempelhof Grillen, Bier und Drohnen (Harald und Seb)
-
-
-August -> fällt aus!
-
 
 20 September:
-- Digital Elevation Models (Jordi Tost)
-- Historische Städte-Atlanten (Hr Wahlberg)
+- Numa Gremling: turf.js
+- Sternenkarten-Frau ;)
+- Hans Hack: MapXtract (5min)
+
 
 25 October:
 Tbd.
+
+
+Ideen für Vorträge:
+- Benjamin Seibel (TSB): Minecraft und 3D-Stadtmodell (inkl. Cardboard)
+- Fabian Ehmel/ Jordi Trost: Digenti
+- Historische Städte-Atlanten (Alex)
+- Raul Krautcausen o-Ä: Wheelmap 
+- Alsino und Hans: Nigeria-Projekt/ Ufos
+
+
+Ideen für Ausflüge:
+- Besuch Sternwarte
+- Schummerungen/Höhenprofile
+
+
+
+
 
 
 
@@ -66,7 +44,7 @@ Tbd.
 
 Housekeeping/ further plans:
 - New sponsor for drinks (and better sharing of expenses in advance) (all ask)
-- Better Documentation (Photos and Srticles on Tumblr) (all)
+- Better Documentation (Photos and Articles on Tumblr) (all)
 - Organize a two-day weekend "Mappathon" after summer w/ TSB, Bahn, OpenData Berlin, etc. on specific topic with output projects (Seb/Alsino)
 
 
