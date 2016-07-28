@@ -13,6 +13,7 @@ Topics:
 
 20 September:
 - Numa Gremling: turf.js
+- Nermin El Sherif - Alternative mapping in Cairo - nerminelsherif.wix.com/cairo (zugesagt)
 - Sternenkarten-Frau ;)
 - Hans Hack: MapXtract (5min)
 
@@ -27,10 +28,12 @@ Ideen für Vorträge:
 - Historische Städte-Atlanten (Alex)
 - Raul Krautcausen o-Ä: Wheelmap 
 - Alsino und Hans: Nigeria-Projekt/ Ufos
+- Johannes - Tactile Map
+- GGPlotR (Kontakt via Seb) for Science 
 
 
 Ideen für Ausflüge:
-- Besuch Sternwarte
+- Besuch Sternwarte / Planetarium
 - Schummerungen/Höhenprofile
 
 
