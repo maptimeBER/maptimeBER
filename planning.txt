@@ -12,7 +12,17 @@ Topics:
 
 
 20 September:
-- Numa Gremling: turf.js
+- Numa Gremling: turf.js (zugesagt)
+
+@geoSYSnet, http://geosysnet.de
+@gistrainer_de, http://gis-trainer.de
+
+Turf.js is a JavaScript library for browser-side geospatial analysis. The talk teaches you what you need to know about the GeoJSON data format as well as how to get started with Turf.js. Some fun examples are shown to show how Turf.js can be used.
+
+Please note: Although Turf.js is a JavaScript library, you do not need to know any coding to attend the talk. The talk should be fun and informative, not frustrating :-)
+
+Numa Gremling (@Gremling89) is a GIS developer from Luxembourg who now works at geoSYS (http://geosysnet.de , @geoSYSnet) in Berlin. His main focus is webmapping but he also likes to automate and extend existing GIS software with Python. He also teaches numerous courses for gis-trainer.de (http://gis-trainer.de  , @gistrainer_de).
+
 - Nermin El Sherif - Alternative mapping in Cairo - nerminelsherif.wix.com/cairo (zugesagt)
 - Sternenkarten-Frau ;)
 - Hans Hack: MapXtract (5min)
