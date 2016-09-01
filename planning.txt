@@ -33,10 +33,12 @@ Tbd.
 
 
 Ideen für Vorträge:
-- Benjamin Seibel (TSB): Minecraft und 3D-Stadtmodell (inkl. Cardboard)
+Benjamin Seibel (TSB): Minecraft und 3D-Stadtmodell (inkl. Cardboard)
 - Fabian Ehmel/ Jordi Trost: Digenti
 - Historische Städte-Atlanten (Alex)
 - Raul Krautcausen o-Ä: Wheelmap 
+- Nico Kögler: Routing mobilitätseingeschränkte Personen
+- Francis Harvey: Prof. im Bereich GIS und Geovisualisierung 
 - Alsino und Hans: Nigeria-Projekt/ Ufos
 - Johannes - Tactile Map
 - GGPlotR (Kontakt via Seb) for Science 
